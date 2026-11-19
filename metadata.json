@@ -1,0 +1,6 @@
+{
+  "name": "CRM Ventas y Equipo",
+  "description": "Sistema CRM protegido por portal de acceso y contraseña: login corporativo, gestión de clientes, pipeline de ventas, proyectos y tareas, Content Manager con ideas virales y simulación de video en tendencia, links de descargas y cotizaciones confidenciales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
